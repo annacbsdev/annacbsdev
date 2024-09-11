@@ -1,16 +1,19 @@
-## Hi there 👋
+## Bem-vindos! 👋
 
-<!--
-**annacbsdev/annacbsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Engenheira Front-End formada pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduanda em Análise e Desenvolvimento de Sistemas. Sou uma profissional criativa com excelente raciocínio lógico e uma capacidade de aprendizagem rápida. Tenho experiência em gerenciamento de redes sociais e criação de designs digitais.
 
-Here are some ideas to get you started:
+💡 Minhas áreas de atuação incluem desenvolvimento web (front e back-end integrados a APIs), design digital para Social Media, projetos freelance de design, desenvolvimento de jogos digitais e ilustração.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Habilidades Técnicas:
+
+- Desenvolvimento Web: HTML, CSS, JavaScript, Sass, Bootstrap, Parcel, Gulp, Grunt, Less, jQuery, React, Ajax, Vue, Angular e TypeScript.
+- Controle de Versão: Git/Github.
+- Backend: Node.js.
+- Design e Prototipagem: Noções de Figma.
+- Outros: Python e Cypress.
+
+📞 Contato:
+
+E-mail: annacbsilveira2002@gmail.com
+
+🚀 Sempre em busca de novos desafios e oportunidades para crescer e aprender!
